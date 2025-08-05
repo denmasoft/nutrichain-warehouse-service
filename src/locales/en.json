@@ -1,0 +1,14 @@
+{
+  "errors": {
+    "productNotFound": "Product with ID {{productId}} not found in stock.",
+    "insufficientStock": "Insufficient stock for product ID {{productId}}. Available: {{available}}, Required: {{required}}.",
+    "invalidMovementType": "Invalid movement type.",
+    "unauthorized": "Unauthorized. A valid token is required.",
+    "invalidToken": "Invalid or expired token.",
+    "internalError": "An unexpected internal error occurred.",
+    "notFound": "The requested resource was not found."
+  },
+  "success": {
+    "movementRegistered": "Movement registered successfully."
+  }
+}
